@@ -9,7 +9,7 @@ I'm a 17 years old developer and developer since I was 16. I love to code and fi
 I am also a student at Estácio, I am studyng Software Engineering.
 
 * 🌍  I'm based in Uberaba-MG, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](hectordeveloper12@gmail.com)
+* ✉️  You can contact me at (34) 9 9111-1938(WhatsApp)
 * 🚀  I'm currently participating in a team called Satx Development.
 * 🧠  I'm learning Advanced Javascript and Typescript.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
