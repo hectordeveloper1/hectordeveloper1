@@ -4,7 +4,7 @@ Hi 👋 My name is Hector
 Full Stack Software Developer
 -----------------------------
 
-I'm a 17 years old developer and developer since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 19 years old developer and developer since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
 I am also a student at Estácio, I am studyng Software Engineering.
 
