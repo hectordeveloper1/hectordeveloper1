@@ -15,8 +15,8 @@ I am also a student at Estácio, I am studyng Software Engineering.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Basketball.
 
-<a href="https://www.github.com/hector-dev1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hector-dev1?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<a href="https://www.github.com/hectordeveloper1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hectordeveloper1?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
