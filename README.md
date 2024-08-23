@@ -13,7 +13,6 @@ Também sou estudante de Engenharia de Software na **Estácio**.
 * 🌍  Moro em Uberaba-MG, Brasil
 * ✉️  Você pode me contatar pelo **(34) 9 9111-1938** (WhatsApp)
 * 🚀  Atualmente, estou participando de vários projetos de desenvolvimento.
-* 🧠  Estou aprendendo mais sobre JavaScript avançado e TypeScript.
 * 🤝  Estou aberto a colaborar em projetos que tenham um grande impacto na vida das pessoas.
 * ⚡  Eu amo esportes, e meu favorito é o basquete.
 
