@@ -4,7 +4,7 @@ Olá 👋 Meu nome é Hector Pereira Lima Martins.
 Desenvolvedor Full Stack
 ------------------------
 
-![Coffee GIF](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif
+![Coffee GIF](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)
 
 Sou um desenvolvedor de 19 anos, apaixonado por tecnologia e por resolver problemas complexos utilizando tecnologias de ponta. Meu foco principal é no desenvolvimento tanto de front-end quanto de back-end, criando aplicações que fazem a diferença na vida das pessoas.
 
