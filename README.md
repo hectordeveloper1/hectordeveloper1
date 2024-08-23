@@ -16,7 +16,7 @@ Também sou estudante de Engenharia de Software na **Estácio**.
 * ⚡  Eu amo esportes, e meu favorito é o basquete.
 
 <a href="https://www.github.com/hectordeveloper1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/seu-usuario?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/hectordeveloper1?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ![Coffee GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI4YnY0NjdzbjFjc2VsZ2dsNTE3ZWtpa2NteWZocTVuOTk2c3Z2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)
 
